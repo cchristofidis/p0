@@ -1,0 +1,97 @@
+xamir,46.9994,-122.3921,Guasaca
+malka,47.2507,-121.0989,Playa Bowls
+savolainen,47.3048,-117.9713,Elmo's Diner
+hallicy,46.8537,-122.8607,Playa Bowls
+jehoshua,48.1229,-123.0911,Panera
+sagal,47.942,-121.9924,Mad Hatter Cafe
+cyrenna,48.7311,-118.6663,Genji
+maddysen,48.0536,-119.8994,Cosmic Cantina
+turan,46.3076,-123.6344,Banh's Cuisine
+dougals,47.1417,-122.4376,Vin Rouge
+meila,48.923,-122.7543,Shuckin' Shack
+reylin,46.7537,-122.0113,The Loop
+cornish,47.5508,-122.6655,Metro 8 Steakhouse
+christobal,48.4228,-119.5159,Panera
+armel,47.0887,-117.0464,Alpaca
+caeson,47.1615,-122.02,Juju
+bubalo,47.8525,-122.1058,Happy + Hale
+niniola,47.7417,-122.6408,International Delights
+abeal,48.4878,-122.6292,Parizade
+bernia,47.3715,-122.5689,Subway
+nadhim,47.7595,-118.52,Banh's Cuisine
+kyajah,47.4513,-117.1307,Elmo's Diner
+kornelia,45.6599,-120.9698,Jimmy John's
+calixto,46.7225,-122.9695,Common Market
+damarr,47.1203,-122.2848,Alpaca
+alisha-mai,46.1796,-122.9577,The Tavern
+donald-james,47.5973,-122.7021,Jimmy John's
+alesa,45.9122,-122.4795,Metro 8 Steakhouse
+casey-may,47.0915,-117.5887,Zenfish Poke Bar
+ingraham,45.6316,-121.1749,Lime and Lemon
+shrum,47.1569,-122.6343,Devil's Pizzeria
+leshanda,46.5737,-119.0013,Local 22
+arijit,47.2328,-122.3518,Cosmic Cantina
+irsah,47.1949,-119.3186,The Tavern
+ahab,48.2929,-117.7336,Panera
+desiree,46.8304,-124.0898,Chicken Bee
+simoni,46.9837,-120.4191,Dain's Place
+makendy,48.1865,-122.4708,Genji
+stamata,47.883,-121.9882,Mad Hatter Cafe
+jamii-leigh,45.6425,-121.9689,Dain's Place
+fawzia,45.818,-121.1626,Vin Rouge
+pia,48.0685,-117.6298,Common Market
+bayron,48.1788,-117.0545,Subway
+mijanur,47.7795,-117.35,The Loop
+rahkeem,47.5175,-120.4671,Kiichi Ramen
+koblick,47.0587,-123.7791,Dain's Place
+jadelynne,46.9685,-124.1521,Devil's Pizzeria
+tsivia,46.5891,-119.1567,Playa Bowls
+lalizar,47.1034,-122.0495,Kabab and Curry
+rosabella,45.7524,-122.5614,Lime and Lemon
+tolkien,48.2119,-122.063,Metro 8 Steakhouse
+demere,46.5391,-117.0861,Kiichi Ramen
+kuulei,47.1305,-117.2465,Heavenly Buffaloes
+macie-lee,46.1841,-122.9178,Zenfish Poke Bar
+envee,48.5571,-119.7513,Zenfish Poke Bar
+sabeeka,47.2822,-117.1557,Genji
+fillare,47.0055,-123.4112,Elmo's Diner
+helio,46.7026,-120.756,Heavenly Buffaloes
+trabon,47.5126,-122.5298,Banh's Cuisine
+dagomar,48.9938,-118.5068,Lime and Lemon
+shandeigh,46.3807,-120.3125,Dain's Place
+torrel,48.0677,-123.1276,Monuts
+shawman,48.7461,-122.4064,Lime and Lemon
+olivianna,46.5923,-120.5496,Genji
+lowry,46.5638,-120.3968,Common Market
+dilani,47.8114,-122.3533,Metro 8 Steakhouse
+vijayagopal,46.0171,-122.8393,Mi Cavillo Antojitos Mexican
+accardi,48.9974,-118.2248,Chicken Bee
+kruter,47.4122,-122.4726,Mad Hatter Cafe
+nyila,47.7478,-117.4197,International Delights
+coe,48.2546,-121.6029,Elmo's Diner
+vokke,48.8616,-117.3706,Dain's Place
+kylon,45.6956,-121.2805,Alpaca
+chaveco,47.1371,-119.3272,Mi Cavillo Antojitos Mexican
+samiron,47.4299,-117.3812,Chicken Bee
+masahisa,48.1289,-120.0056,Zenfish Poke Bar
+maylyn,47.648,-120.0707,Playa Bowls
+ikeem,47.9839,-121.9129,Vin Rouge
+albinus,47.2522,-122.3154,Vin Rouge
+cherryll,47.4105,-118.9886,Mi Cavillo Antojitos Mexican
+carisha,47.1718,-122.2192,Devil's Pizzeria
+nermira,47.1079,-122.6496,Local 22
+safyaan,47.2309,-122.2832,Kiichi Ramen
+zuhra,47.2015,-122.2742,Parizade
+cooper,47.215,-124.1967,The Loop
+luz,47.8858,-120.1563,Alpaca
+leylashka,48.1034,-119.7751,Mi Cavillo Antojitos Mexican
+abdelmalek,45.7764,-122.5413,Local 22
+esquiel,47.7564,-122.3426,Vin Rouge
+andoro,46.9541,-123.7725,Parizade
+jessieca,47.6459,-117.5792,Elmo's Diner
+peterec,46.2431,-119.9084,Chicken Bee
+meeghan,48.3378,-118.2372,Kiichi Ramen
+wun,47.9391,-119.0031,Local 22
+collynn,47.3475,-123.0952,Local 22
+jamarey,48.6772,-118.6689,Subway
+dezideriu,46.1248,-122.8909,Vin Rouge

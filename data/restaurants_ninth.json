@@ -1,0 +1,203 @@
+[
+  {
+    "name": "Juju",
+    "address": "737 9th St Ste 210, Durham, NC 27705",
+    "cuisine": "Asian fusion"
+  },
+  {
+    "name": "Lime & Lemon",
+    "address": "811 9th St Ste 150, Durham, NC 27705",
+    "cuisine": "Indian"
+  },
+  {
+    "name": "Dain's Place",
+    "address": "754 9th St, Durham, NC 27705",
+    "cuisine": "American pub"
+  },
+  {
+    "name": "Banh's Cuisine",
+    "address": "750 9th St, Durham, NC 27705",
+    "cuisine": "Vietnamese & Chinese"
+  },
+  {
+    "name": "Monuts",
+    "address": "1002 9th St, Durham, NC 27705",
+    "cuisine": "Bakery, Cafe"
+  },
+  {
+    "name": "Alpaca",
+    "address": "703A 9th St, Durham, NC 27705",
+    "cuisine": "Peruvian chicken"
+  },
+  {
+    "name": "Kiichi Ramen",
+    "address": "730 9th St, Durham, NC 27705",
+    "cuisine": "Japanese ramen"
+  },
+  {
+    "name": "Devil's Pizzeria",
+    "address": "742 9th St, Durham, NC 27705",
+    "cuisine": "New York pizza, Wings"
+  },
+  {
+    "name": "The Loop",
+    "address": "1116 Broad St, Durham, NC 27705",
+    "cuisine": "Burgers, Pizza"
+  },    
+  {
+    "name": "Vin Rouge",
+    "address": "2010 Hillsborough Rd, Durham, NC 27705",
+    "cuisine": "French bistro"
+  },
+  {
+    "name": "Moe's Original BBQ",
+    "address": "2014 Hillsborough Rd, Durham, NC 27705",
+    "cuisine": "Southern BBQ"
+  },
+  {
+    "name": "Chipotle",
+    "address": "737 9th Street 220 Durham, NC 27705",
+    "cuisine": "Tex-Mex"
+  },
+  {
+    "name": "Tous Les Jours",
+    "address": "744 9th St Durham, NC 27705",
+    "cuisine": "Bakery and Beverages"
+  },
+  {
+    "name": "Wheat",
+    "address": "810 9th St, Ste 130, Durham, NC 27705",
+    "cuisine": "Asian Noodles, Desert"
+  },
+
+  {
+    "name": "Del Rancho Mexican Grill",
+    "address": "730 9th St, Durham, NC 27705",
+    "cuisine": "Mexican"
+  },
+  {
+    "name": "Elmo's Diner",
+    "address": "776 9th St, Durham, NC 27705",
+    "cuisine": "American diner"
+  },
+  {
+    "name": "Local 22",
+    "address": "2200 W Main St, Durham, NC 27705",
+    "cuisine": "Gastropub"
+  },
+  {
+    "name": "Parizade",
+    "address": "2200 W Main St, Durham, NC 27705",
+    "cuisine": "Mediterranean"
+  },
+  {
+    "name": "Metro 8 Steakhouse",
+    "address": "1116 Broad St, Durham, NC 27705",
+    "cuisine": "Steakhouse"
+  },
+  {
+    "name": "Common Market",
+    "address": "1821 Green St, Durham, NC 27705",
+    "cuisine": "Casual market, café"
+  },
+  {
+    "name": "Cosmic Cantina",
+    "address": "1920 Perry St, Durham, NC 27705",
+    "cuisine": "Tex-Mex"
+  },
+  {
+    "name": "Happy + Hale",
+    "address": "703B 9th St, Durham, NC 27705",
+    "cuisine": "Healthy bowls"
+  },
+  {
+    "name": "International Delights",
+    "address": "740 9th St. Durham, NC 27705",
+    "cuisine": "Mediterranean"
+  },
+  {
+    "name": "Playa Bowls",
+    "address": "744B 9th Street, Durham, NC 27705",
+    "cuisine": "Acai bowls, Smoothies"
+  },
+  {
+    "name": "Shuckin' Shack",
+    "address": "2200 W Main St a140, Durham, NC 27701",
+    "cuisine": "Oysters/Seafood"
+  },
+  {
+    "name": "Szechuan Mansion Hotpot",
+    "address": "746 9th St, Durham, NC 27705",
+    "cuisine": "Szechuan hot pot"
+  },
+  {
+    "name": "Panera",
+    "address": "737 9th St #200, Durham, NC 27705",
+    "cuisine": "Sandwiches, Salads"
+  },
+  {
+    "name": "Zenfish Poke Bar",
+    "address": "810 9th St, Durham, NC 27705",
+    "cuisine": "Poke bowls"
+  },
+  {
+    "name": "Chicken Bee",
+    "address": "810 9th St STE129, Durham, NC 27705",
+    "cuisine": "Korean fried chicken"
+  },
+  {
+    "name": "Mad Hatter Cafe",
+    "address": "1802 W Main St, Durham, NC 27705",
+    "cuisine": "Bakery, café"
+  },
+  {
+    "name": "Genji",
+    "address": "621 Broad St, Durham, NC 27705",
+    "cuisine": "Sushi"
+  },
+  {
+    "name": "Jimmy John's",
+    "address": "701 9th St, Durham, NC 27705",
+    "cuisine": "Sandwiches"
+  },
+  {
+    "name": "Koi Sushi and Hibachi",
+    "address": "607 Broad St, Durham, NC 27705",
+    "cuisine": "Japanese"
+  },
+  {
+    "name": "Heavenly Buffaloes",
+    "address": "1807 W Markham Ave, Durham, NC 27705",
+    "cuisine": "Chicken, Wings, Fries"
+  },
+  {
+    "name": "The Tavern",
+    "address": "1900 W Markham Ave, Durham, NC 27705",
+    "cuisine": "Dive Bar/Tavern"
+  },
+  {
+    "name": "Guasaca",
+    "address": "A-100 Erwin Square, 2200 W Main St, Durham, NC 27705",
+    "cuisine": "Colombian arepas"
+  },
+  {
+    "name": "Mi Calvillo Antojitos Mexican",
+    "address": "48 9th St, Durham, NC 27705",
+    "cuisine": "Mexican street food"
+  },
+  {
+    "name": "Sho Nuff Seafood",
+    "address": "1104 Broad St, Durham, NC 27705",
+    "cuisine": "Fried/Boiled Seafood"
+  },
+  {
+    "name": "Subway",
+    "address": "705-B 9th St, Durham, NC 27705",
+    "cuisine": "Fast‑food sandwiches"
+  },
+  {
+    "name": "Kabab and Curry",
+    "address": "716 9th St, Durham, NC 27705",
+    "cuisine": "Indian and Nepalese"
+  }
+]

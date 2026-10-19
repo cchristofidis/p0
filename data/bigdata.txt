@@ -1,0 +1,321 @@
+Aarsh,26.920,75.790,International Delights
+Aashish,40.250,75.166,Panera
+Abby,35.710,78.610,Happy + Hale
+Abdou Diallo,40.663,-73.961,Alpaca
+Abdullah,31.520,74.359,Devil's Pizzeria
+Abhinav Meduri,35.691,-78.794,Elmo's Diner
+Adam,35.223,-97.440,Kiichi Ramen
+Aditya Raj,12.972,77.595,Cosmic Cantina
+Adonias,44.739,93.125,Cosmic Cantina
+Ah Crazy,41.470,-73.490,International Delights
+Ahaan,19.070,72.870,Happy + Hale
+Aidan,25.690,100.320,Cosmic Cantina
+Aiden,35.676,139.650,Alpaca
+Aksel,41.015,28.979,Juju
+Alan,37.320,122.030,Szechuan Mansion Hotpot
+Alana,35.792,-78.781,The Loop
+Alex Zhang,39.018,77.209,Alpaca
+Alex,37.563,122.326,Alpaca
+Alex,39.141,84.480,Cosmic Cantina
+Alexis,40.551,85.602,Bali Hai Mongolian Grill
+Alina,31.969,99.902,Cosmic Cantina
+Alina,41.378,-81.441,Banh's Cuisine
+Allan Bochenek,42.088,87.981,Panera
+Allen,36.313,82.354,Szechuan Mansion Hotpot
+Alperen,38.455,27.233,International Delights
+Alyssa,25.033,121.560,Kiichi Ramen
+Amanda,37.386,-122.084,Zenfish Poke Bar
+Amanda,40.792,-73.640,Parizade
+Amogh,58.970,5.733,Kiichi Ramen
+Amy,40.929,73.103,Kiichi Ramen
+Andrew,32.655,79.941,Jimmy John's
+Andrew,32.941,-97.134,Cosmic Cantina
+Andy Li,35.990,-78.900,Cosmic Cantina
+Andy,31.230,121.474,Szechuan Mansion Hotpot
+Andy,35.850,174.760,Happy + Hale
+Andy,76.870,-21.975,Juju
+Angela,22.319,114.169,Lime and Lemon
+Anika Dugal,40.412,-74.308,Cosmic Cantina
+Anna,39.953,75.169,Cosmic Cantina
+Anna,55.760,37.620,Subway
+Anric,26.709,-80.059,Szechuan Mansion Hotpot
+Anthony,40.173,-74.590,Cosmic Cantina
+Anthony,40.173,74.590,Cosmic Cantina
+Anushka,32.777,-96.797,Lime and Lemon
+Anushka,33.020,96.699,Cosmic Cantina
+Arnav Meduri,35.690,-78.790,Devil's Pizzeria
+Arnav,35.227,80.843,Cosmic Cantina
+Arnav,35.885,-78.631,Lime and Lemon
+Arya,34.041,-81.170,Heavenly Buffaloes
+Austin,35.745,-81.685,Panera
+Avi,32.039,-81.200,Alpaca
+AvneeshS,29.187,-82.140,Kiichi Ramen
+Avrick,34.052,-118.244,Lime and Lemon
+Beau,32.830,-96.790,Dain's Place
+Bella,32.780,-96.797,Mad Hatter Cafe
+Ben,40.298,-74.619,Cosmic Cantina
+Ben,40.298,-74.619,Juju
+Ben,40.813,96.703,Alpaca
+BillyHIllyGoat,55.000,-87.925,Alpaca
+Blake,40.850,-73.480,Subway
+Brandon,36.770,-75.976,Lime and Lemon
+Brian,41.878,-87.630,Juju
+Bruce,115.890,28.680,Bali Hai Mongolian Grill
+Carlie,38.950,94.730,Playa Bowls
+Carmen,37.465,-122.268,Juju
+Caroline,40.706,-73.664,Vin Rouge
+Cassandra,14.555,121.024,Elmo's Diner
+Catherine,32.770,96.790,Cosmic Cantina
+Cayden,37.580,122.350,Juju
+Charlie,41.450,-81.450,Vin Rouge
+Chaych,40.710,-74.000,Cosmic Cantina
+Cierra,38.850,-77.300,Cosmic Cantina
+Colin,21.870,-89.975,Cosmic Cantina
+Connor,39.013,-77.538,Cosmic Cantina
+Crystal,35.913,79.056,Cosmic Cantina
+Cynthia,43.650,79.380,Juju
+Cyril,41.089,-74.144,Happy + Hale
+Dana Brooks,37.570,122.340,Vin Rouge
+Daniel,33.447,-86.789,Szechuan Mansion Hotpot
+Daniel,33.749,84.388,Chicken Bee
+Daniel,38.985,-77.095,Playa Bowls
+Daniel,41.327,19.802,Heavenly Buffaloes
+Daniel,41.878,-87.630,Juju
+Daria,42.336,-71.121,Juju
+Darian,47.305,-117.971,Elmo's Diner
+David ,40.645,74.349,Cosmic Cantina
+David,38.880,-77.300,Cosmic Cantina
+David,40.417,-3.704,International Delights
+David,40.713,-74.006,Alpaca
+David,41.000,-73.790,Cosmic Cantina
+Davis,36.030,86.780,Zenfish Poke Bar
+Demetrious,0.000,0.000,Cosmic Cantina
+Desmond,-33.550,-18.250,Elmo's Diner
+Desmond,51.402,-3.531,Alpaca
+Dishita,36.073,-79.792,Bali Hai Mongolian Grill
+Dolphin,34.890,-79.710,Bali Hai Mongolian Grill
+Drew Crocker,35.994,78.899,Devil's Pizzeria
+Dylan,28.670,81.208,Cosmic Cantina
+Eden,41.878,87.630,Happy + Hale
+Edward,-37.810,-144.960,Szechuan Mansion Hotpot
+Eli,25.762,80.192,Alpaca
+Elina,36.010,-78.922,Juju
+Elizabeth,47.600,122.300,Guasaca
+Ella,33.950,84.550,Playa Bowls
+Ellen,40.718,-74.014,Zenfish Poke Bar
+Emoney,41.257,95.935,Devil's Pizzeria
+Erica,39.990,-74.940,Playa Bowls
+Ethan Puc,28.332,-80.735,Subway
+Ethan,36.001,-78.938,Dain's Place
+Ethan,36.008,-78.922,Cosmic Cantina
+Ethan,37.565,126.977,Dain's Place
+Evan,40.999,73.821,Happy + Hale
+Ezequiel,27.807,-97.801,Mad Hatter Cafe
+Ezequiel,36.006,-78.920,Mad Hatter Cafe
+Faiz,34.853,82.394,Lime and Lemon
+Felipe,25.742,-80.339,Cosmic Cantina
+Forja,25.762,80.192,Panera
+Gabe,43.480,-110.762,Kiichi Ramen
+Gabriel,48.731,-118.666,Genji
+Gavin,40.725,-73.636,Subway
+George,40.713,-74.006,Happy + Hale
+Geronimo,42.300,-70.550,Cosmic Cantina
+Giacomo P,40.963,-74.133,Cosmic Cantina
+Grace,41.900,-87.630,Playa Bowls
+Grant,33.740,84.380,Cosmic Cantina
+GrayDog,37.298,113.026,Kiichi Ramen
+Gretchen,78.225,-15.626,Subway
+Hannah,33.750,-84.390,Szechuan Mansion Hotpot
+Hannah,37.217,121.844,Alpaca
+Hannah,40.872,-73.457,Cosmic Cantina
+Hannah,40.872,73.457,Cosmic Cantina
+Hao,43.978,15.383,Chicken Bee
+Harouna,30.422,-87.217,Kiichi Ramen
+Harvyn,35.227,-80.843,Kiichi Ramen
+Hyeonsu,37.550,126.990,Szechuan Mansion Hotpot
+Ian,40.852,73.719,Kiichi Ramen
+Ian,45.512,-122.659,The Loop
+Isaac,40.713,74.006,Cosmic Cantina
+Isabella,40.713,74.006,Kiichi Ramen
+Iurii,57.049,54.016,Heavenly Buffaloes
+Ixa,35.595,82.552,Jimmy John's
+Izz,40.765,-73.831,Juju
+JP,14.750,-86.241,Elmo's Diner
+Jacob,32.885,-79.759,The Loop
+Jad,35.802,-78.905,Cosmic Cantina
+Jai,19.076,72.878,Juju
+James,41.484,-81.921,Cosmic Cantina
+James,44.978,-93.258,Alpaca
+Jane,37.565,126.970,Bali Hai Mongolian Grill
+Janna,40.765,-73.831,Juju
+Jared,40.338,74.269,Cosmic Cantina
+Jasmin,26.532,-80.091,Juju
+Jay,37.370,122.040,Kiichi Ramen
+Jennifer,39.900,116.400,Kiichi Ramen
+Jennifer,42.190,87.910,Happy + Hale
+Jiahe,30.288,120.098,Alpaca
+Jiayu,40.718,74.014,Juju
+Jocelyn,40.798,73.542,Szechuan Mansion Hotpot
+Joe,25.702,-80.337,Lime and Lemon
+Joey,35.792,-78.781,Playa Bowls
+Joey,35.792,78.781,Playa Bowls
+John,35.994,-78.899,Szechuan Mansion Hotpot
+John,40.241,-75.284,Szechuan Mansion Hotpot
+John,42.800,70.000,Subway
+Johnson,36.000,78.560,Szechuan Mansion Hotpot
+Jonah,40.731,-73.935,Alpaca
+Jonathan,47.608,-122.199,Cosmic Cantina
+Jose Aguilera,14.065,87.172,Vin Rouge
+Jose,14.065,87.172,Vin Rouge
+Jose,26.142,81.795,Alpaca
+Josh,33.669,-117.823,Alpaca
+Josh,36.160,86.780,Cosmic Cantina
+Josh,44.268,-88.428,Szechuan Mansion Hotpot
+Joshua,41.390,73.960,Happy + Hale
+Josie,47.606,122.333,Heavenly Buffaloes
+João,-22.907,43.173,Banh's Cuisine
+Juan,33.803,-118.072,Alpaca
+Jules,40.800,-73.741,Local 22
+Julia,40.585,-105.084,Szechuan Mansion Hotpot
+Kaan,38.420,27.143,Juju
+Kabir,31.230,121.474,Cosmic Cantina
+Kacey,35.730,78.850,Playa Bowls
+Karthi Ramiah,39.953,75.165,Lime and Lemon
+Kelly,29.598,-95.623,Alpaca
+Kelly,40.498,74.489,Lime and Lemon
+Kelly,46.071,13.235,Cosmic Cantina
+Kelvin,77.870,-20.975,Cosmic Cantina
+Kevin,-33.869,151.209,Alpaca
+Kevin,31.236,121.506,Szechuan Mansion Hotpot
+Krish Yadav,35.792,-78.781,Cosmic Cantina
+Laith,29.760,-95.370,Cosmic Cantina
+Lamees Subeir,77.870,-20.975,Lime and Lemon
+Lara,40.710,74.000,Local 22
+Leah,35.227,-80.843,Monuts
+Leonard Yang,35.792,-78.781,Szechuan Mansion Hotpot
+Lexii,35.994,78.899,Kiichi Ramen
+Liam,42.149,-87.805,Subway
+Lilly,41.142,73.358,Monuts
+Linh,22.000,5.000,Banh's Cuisine
+Linh,77.870,-20.975,Banh's Cuisine
+Lisa,35.790,-78.780,Szechuan Mansion Hotpot
+Logan Chu,47.682,122.209,Lime and Lemon
+Logan,34.000,118.000,Alpaca
+Logan,34.055,118.243,Alpaca
+Lu,738.901,-77.265,Cosmic Cantina
+Lucas Wagner,44.978,93.265,Szechuan Mansion Hotpot
+Lucia,41.142,-73.358,Juju
+Marco,48.858,2.351,Cosmic Cantina
+Maria,39.961,75.606,Alpaca
+Martin,35.560,97.140,Alpaca
+Matthew,25.762,-80.192,Subway
+Max,37.860,-119.540,Alpaca
+Max,38.930,-77.180,Juju
+Max,40.638,-74.451,Szechuan Mansion Hotpot
+Megan,47.610,122.330,Kiichi Ramen
+Mehak Rajoria,40.728,73.795,Playa Bowls
+Mia,52.131,4.367,Playa Bowls
+Michael Zhou,77.870,-20.975,Cosmic Cantina
+Michael,39.904,116.407,Juju
+Mohammed,39.963,-82.996,Alpaca
+Mohnish,1.439,103.830,Cosmic Cantina
+Molly,82.640,30.220,Monuts
+Monet,38.976,77.642,Vin Rouge
+Moomoo,35.227,-80.843,Panera
+Mooshie,35.227,-80.843,Panera
+Natalie,32.930,-97.190,Cosmic Cantina
+Nathan,39.199,-76.909,Juju
+Navya,36.092,79.889,Genji
+Nikki,38.929,-77.229,Szechuan Mansion Hotpot
+Niko,40.770,-111.890,Juju
+Nina,37.271,76.708,Cosmic Cantina
+Noa,25.760,80.190,Alpaca
+Noor,31.550,74.344,Alpaca
+Owen,25.030,121.300,Lime and Lemon
+Owen,35.910,79.056,Bali Hai Mongolian Grill
+Paulina,17.870,-70.975,Cosmic Cantina
+Paulina,87.870,-24.925,Cosmic Cantina
+Phillip,35.373,119.010,Happy + Hale
+Phuong,10.823,106.630,Szechuan Mansion Hotpot
+Poorvaja,35.831,-78.889,Cosmic Cantina
+Praneeth,32.975,-96.999,Alpaca
+Priyanka,39.412,-77.425,Cosmic Cantina
+Quinn,39.730,104.990,Heavenly Buffaloes
+Rafael,-23.530,-46.620,Alpaca
+Raghav,41.586,93.625,The Tavern
+Raiyan,33.240,-111.840,Monuts
+Raj,38.627,90.199,Cosmic Cantina
+Ratish,34.035,-81.211,Cosmic Cantina
+Renee,-22.908,43.179,Monuts
+Rhea,39.086,-77.161,Cosmic Cantina
+Rico,43.650,79.380,Szechuan Mansion Hotpot
+Riley,40.730,-73.935,Juju
+Rishi,39.201,85.921,Dain's Place
+Riya,40.903,-73.134,Playa Bowls
+Roudy,30.000,30.000,Happy + Hale
+Ruby,34.055,-118.243,Juju
+Ryan,30.572,104.067,Metro 8 Steakhouse
+Rylan,39.636,-84.071,Devil's Pizzeria
+Rylan,39.636,84.071,Devil's Pizzeria
+Samia,33.469,82.028,Lime and Lemon
+Samia,33.469,82.028,Playa Bowls
+Samya,30.276,-97.813,Playa Bowls
+Sarah,28.530,81.370,Chicken Bee
+Sharad,37.440,-122.132,Cosmic Cantina
+Sharad,77.870,-20.975,Cosmic Cantina
+Sharon,40.718,73.845,Cosmic Cantina
+Shawon,44.315,185.602,Cosmic Cantina
+Shayan,40.589,-111.817,Lime and Lemon
+Shivansh,28.610,77.200,Zenfish Poke Bar
+Shravan,77.870,-20.975,Cosmic Cantina
+Shrey,45.515,122.678,Lime and Lemon
+Shreyas,38.901,-77.265,Cosmic Cantina
+Shriya,40.910,74.380,Lime and Lemon
+Siddu,33.448,112.074,Lime and Lemon
+Sivan,40.780,-73.980,Monuts
+Siven,35.640,-97.509,Lime and Lemon
+Sofia,32.254,110.974,Happy + Hale
+Sola,35.662,139.704,Szechuan Mansion Hotpot
+Sophia,40.849,73.645,Dain's Place
+Sophie,35.216,-80.954,Kiichi Ramen
+Sophie,40.960,74.120,Lime and Lemon
+Stella,45.520,-122.680,Szechuan Mansion Hotpot
+StephenC,35.961,-79.029,Cosmic Cantina
+Steven,42.239,87.965,Zenfish Poke Bar
+Steven,45.035,93.583,Elmo's Diner
+Suhaib,28.538,-81.379,Metro 8 Steakhouse
+Surya,50.000,79.056,Lime and Lemon
+Sven,77.870,-20.975,Cosmic Cantina
+Taran,40.760,73.984,Lime and Lemon
+Teresa,82.863,135.000,Playa Bowls
+Thomas Kidane,9.052,38.698,Chicken Bee
+Thomas,35.288,139.668,Devil's Pizzeria
+Tim,35.109,77.044,Heavenly Buffaloes
+Timothy,41.870,87.630,Cosmic Cantina
+Tony,36.019,-78.918,Szechuan Mansion Hotpot
+Tony,77.870,-20.975,Subway
+Tristan,34.853,82.394,Lime and Lemon
+Tyler,42.200,71.425,Cosmic Cantina
+Val Kasabrukhau,36.008,-78.922,Cosmic Cantina
+Vance,32.777,96.797,Banh's Cuisine
+Vic,43.157,77.609,Szechuan Mansion Hotpot
+Vika,25.968,-80.126,Alpaca
+Violet,40.731,-73.935,Juju
+Vito,120.481,23.992,Cosmic Cantina
+Vivan,28.459,77.027,Lime and Lemon
+Wiley,36.163,-86.782,Szechuan Mansion Hotpot
+Will,38.985,-77.095,Elmo's Diner
+Willem,39.018,77.209,Banh's Cuisine
+William,37.541,77.436,Szechuan Mansion Hotpot
+William,38.744,77.241,Cosmic Cantina
+Yonathan,37.369,-122.036,Monuts
+Yonathan,37.369,122.036,Monuts
+Yuhuan,30.280,120.150,Szechuan Mansion Hotpot
+Zaer,1.355,103.819,Cosmic Cantina
+Zane,40.090,-75.270,Szechuan Mansion Hotpot
+Zebra,87.870,-24.925,Cosmic Cantina
+Zijia Tang,23.397,113.306,Vin Rouge
+blah,35.676,139.650,Alpaca
+claire,51.507,0.128,Devil's Pizzeria
+mayah,36.150,-79.140,Szechuan Mansion Hotpot
+sandith,36.090,79.890,Cosmic Cantina
